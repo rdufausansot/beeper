@@ -1,0 +1,30 @@
+.beep {
+  margin-bottom: 16px;
+}
+
+.beepHeader {
+  display: flex;
+  align-items: center;
+}
+
+.beepHeaderText {
+  position: relative;
+  bottom: -1px;
+}
+
+.authorProfilePicture {
+  display: block;
+  height: 24px;
+  width: 24px;
+  border-radius: 50%;
+  margin-right: 6px;
+}
+
+.author {
+  font-weight: bold;
+}
+
+.createdAt {
+  font-style: italic;
+  font-size: 14px;
+}

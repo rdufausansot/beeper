@@ -1,0 +1,17 @@
+.header {
+  display: flex;
+  align-items: center;
+}
+
+.profilePicture {
+  border-radius: 50%;
+  height: 48px;
+  width: 48px;
+}
+
+.logoutButton {
+  margin-left: auto;
+  border: none;
+  cursor: pointer;
+  font-style: italic;
+}
